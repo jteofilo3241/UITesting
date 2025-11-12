@@ -1,1 +1,2 @@
-[![Playwright Tests](https://github.com/jteofilo3241/UITesting/actions/workflows/playwright.yml/badge.svg)](https://github.com/jteofilo3241/UITesting/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/jteofilo3241/UITesting/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/jteofilo3241/UITesting/actions/workflows/playwright.yml)
+Comparison:
